@@ -12,7 +12,7 @@ information:
 
 ```shell
 OPENAI_API_KEY="<Your Key>"
-OPENAI_ORGANIZATION="Your Org"
+OPENAI_ORGANIZATION="<Your Org>"
 ```
 
 You only need the `OPENAI_ORGANIZATION` if you use multiple Organizations in with your Open AI Key.  You can also set a 
